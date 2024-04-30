@@ -1,2 +1,2 @@
-# stats_maths
+# hypothesis_testing
 Hypothesis Testing
